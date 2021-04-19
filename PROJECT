@@ -1,0 +1,7 @@
+domain: qingcloud.com
+repo: krypton-operator
+resources:
+- group: qingcloud.com
+  kind: Krypton
+  version: v1alpha1
+version: "2"
